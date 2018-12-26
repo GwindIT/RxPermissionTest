@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RxPermissionTest</string>
+    <string name="get_imei">获取手机iMei</string>
+</resources>
